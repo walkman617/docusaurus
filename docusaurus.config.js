@@ -98,7 +98,7 @@ module.exports = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/walkman617/docusaurus',
+                    editUrl: 'https://github.com/walkman617/docusaurus/tree/master/',
                 },
                 blog: {
                     showReadingTime: true,
