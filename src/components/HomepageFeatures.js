@@ -8,10 +8,8 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        <ul>
-          <li>软件工程是与长期、大规模的编程项目有关的理论和方法。</li>
-          <li>课程通过介绍软件工程的相关知识，让学生有机会设计、管理和实施一个中型软件项目。</li>
-        </ul>
+        软件工程是与长期、大规模的编程项目有关的理论、方法和实践。
+        课程通过介绍软件工程的相关知识，让学生有机会设计、管理和实施一个中型软件项目。
       </>
     ),
   },
@@ -20,10 +18,8 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        <ul>
-          <li>自发建立团队，设计与实现一个中型项目。</li>
-          <li>推荐构建3～5人小组团队，为了有机会面对与解决项目管理问题。 </li>
-        </ul>
+        自发建立团队，设计与实现一个中型项目。
+        推荐构建3～5人小组团队，为了有机会面对与解决项目管理问题。
       </>
     ),
   },
@@ -32,11 +28,8 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        <ul>
-          <li>个人成绩中的大约 50% 将基于团队项目文件和演示。</li>
-          <li>个人成绩的其余部分将取决于平时考勤、作业和对团队项目的贡献。</li>
-          <li>注意：每次作业或者项目报告的提交日期非常重要！！延迟提交会有比较严格的扣分.</li>
-        </ul>
+        个人成绩中的大约 50% 将基于团队项目文件和演示；其余部分将取决于平时考勤、作业和对团队项目的贡献。
+        <code>注意:</code>每次作业或者项目报告的提交日期非常重要！！延迟提交会有比较严格的扣分.
       </>
     ),
   },
