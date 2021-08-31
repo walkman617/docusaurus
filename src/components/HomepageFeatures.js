@@ -4,32 +4,33 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Course Overview',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Software engineering is concerned with long-term, large scale programming projects. 
+        This course introduces the topic through lectures and by giving you a chance to help design, manage, and implement a medium-sized project.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Group Project',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        The class will be divided into groups of people. 
+        Five-person groups were recommended partly because of the large size of the class and partly to force students to face issues of project management. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Grades',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        About 50% of your grade will be based on the group project documents and demonstration. 
+        The rest of the grade will depend on individual tests, projects, and contributions to the group projects.
+        It is very important that assignments be turned in promptly to allow us time to evaluate your work and make suggestions.
       </>
     ),
   },
