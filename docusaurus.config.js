@@ -3,15 +3,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-    title: 'Flutter应用开发',
-    tagline: '基于Flutter的跨平台应用开发技术与实战',
-    url: 'https://your-docusaurus-test-site.com',
+    title: '软件工程',
+    tagline: '《软件工程》课程平台',
+    url: 'https://se.nkugame.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    organizationName: 'walkman617', // Usually your GitHub org/user name.
+    projectName: 'SE2021', // Usually your repo name.
     i18n: {
         defaultLocale: "zh-Hans",
         locales: ["zh-Hans"]
