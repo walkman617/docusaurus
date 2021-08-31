@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
     title: '软件工程',
-    tagline: '《软件工程》课程平台',
+    tagline: '南开大学软件学院《软件工程》课程平台',
     url: 'https://se.nkugame.com',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -18,20 +18,20 @@ module.exports = {
     },
     themeConfig: {
         navbar: {
-            title: 'Flutter应用开发',
+            title: '软件工程',
             logo: {
-                alt: 'My Site Logo',
+                alt: '南开大学软件学院《软件工程》课程平台',
                 src: 'img/logo.svg',
             },
             items: [{
                     type: 'doc',
                     docId: 'intro',
                     position: 'left',
-                    label: 'Tutorial',
+                    label: '课程资源',
                 },
-                { to: '/blog', label: 'Blog', position: 'left' },
+                { to: '/blog', label: '作业与要求', position: 'left' },
                 {
-                    href: 'https://github.com/facebook/docusaurus',
+                    href: 'https://github.com/walkman617/SE2021',
                     label: 'GitHub',
                     position: 'right',
                 },
@@ -40,42 +40,51 @@ module.exports = {
         footer: {
             style: 'dark',
             links: [{
-                    title: 'Docs',
+                    title: '教学',
                     items: [{
-                        label: 'Tutorial',
-                        to: '/docs/intro',
-                    }, ],
-                },
-                {
-                    title: 'Community',
-                    items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                            label: '课程资源',
+                            to: '/docs/intro',
                         },
                         {
-                            label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            label: '教材链接',
+                            href: 'https://www.mheducation.com/highered/product/software-engineering-practitioner-s-approach-pressman-maxim/M9781259872976.html',
                         },
                         {
-                            label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            label: '教材购买',
+                            href: 'http://product.dangdang.com/29274797.html',
                         },
                     ],
                 },
                 {
-                    title: 'More',
+                    title: '实践',
                     items: [{
-                            label: 'Blog',
+                            label: '腾讯TAPD',
+                            href: 'https://www.tapd.cn',
+                        },
+                        {
+                            label: '华为DevCloud',
+                            href: 'https://www.huaweicloud.com/devcloud/',
+                        },
+                        {
+                            label: '腾讯CloudBase',
+                            href: 'https://cloudbase.net/',
+                        },
+                    ],
+                },
+                {
+                    title: '更多',
+                    items: [{
+                            label: '作业与要求',
                             to: '/blog',
                         },
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/facebook/docusaurus',
+                            href: 'https://github.com/walkman617/SE2021',
                         },
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} 南开大学, 软件学院. Built with Docusaurus.`,
         },
         prism: {
             theme: lightCodeTheme,
@@ -89,12 +98,12 @@ module.exports = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/',
+                    editUrl: 'https://github.com/walkman617/docusaurus',
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+                    editUrl: 'https://github.com/walkman617/docusaurus/tree/master/blog/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
