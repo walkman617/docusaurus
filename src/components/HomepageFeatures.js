@@ -4,33 +4,33 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Course Overview',
+    title: '课程介绍',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Software engineering is concerned with long-term, large scale programming projects. 
-        This course introduces the topic through lectures and by giving you a chance to help design, manage, and implement a medium-sized project.
+        软件工程是与长期、大规模的编程项目有关的理论和方法。
+        课程通过介绍软件工程的相关知识，让学生有机会设计、管理和实施一个中型软件项目。
       </>
     ),
   },
   {
-    title: 'Group Project',
+    title: '团队项目',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        The class will be divided into groups of people. 
-        Five-person groups were recommended partly because of the large size of the class and partly to force students to face issues of project management. 
+        自发建立团队，设计与实现一个中型项目。
+        推荐构建3～5人小组团队，为了有机会面对与解决项目管理问题。 
       </>
     ),
   },
   {
-    title: 'Grades',
+    title: '成绩考核',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        About 50% of your grade will be based on the group project documents and demonstration. 
-        The rest of the grade will depend on individual tests, projects, and contributions to the group projects.
-        It is very important that assignments be turned in promptly to allow us time to evaluate your work and make suggestions.
+        个人成绩中的大约 50% 将基于团队项目文件和演示。
+        个人成绩的其余部分将取决于平时考勤、作业和对团队项目的贡献。
+        注意：每次作业或者项目报告的提交日期非常重要！！延迟提交会有比较严格的扣分.
       </>
     ),
   },

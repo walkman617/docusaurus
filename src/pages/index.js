@@ -29,7 +29,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`课程平台 ${siteConfig.title}`}
+      title={`课程首页`}
       description="南开大学软件学院 软件工程 课程平台<head />">
       <HomepageHeader />
       <main>
