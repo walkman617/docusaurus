@@ -8,6 +8,10 @@ author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
 tags: [assignments, team project, final score]
 ---
 
+## 作业提交截止日期
+1. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日；
+2. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日；
+
 ## 团队项目
 - 自发建立小组团队，设计与实现一个中型项目；
 - 推荐构建3～5人小组团队，为了有机会面对与解决项目管理问题。
