@@ -103,7 +103,7 @@ module.exports = {
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
-                    editUrl: 'https://github.com/walkman617/docusaurus/tree/master/blog/',
+                    editUrl: 'https://github.com/walkman617/docusaurus/tree/master/',
                 },
                 theme: {
                     customCss: require.resolve('./src/css/custom.css'),
