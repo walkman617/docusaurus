@@ -9,10 +9,10 @@ tags: [assignments, team project, final score]
 ---
 
 ## 作业提交截止日期
-1. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日；
-2. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日；
-3. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日；
-4. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日；
+1. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日；
+2. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日；
+3. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日；
+4. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日；
 
 ## 团队项目
 - 基于TAPD的敏捷项目管理
