@@ -15,8 +15,11 @@ tags: [assignments, team project, final score]
 4. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日；
 
 ## 团队项目
-- 基于TAPD的敏捷项目管理
+- 基于TAPD的敏捷项目管理：[加入TAPD](https://www.tapd.cn/invite_confirms/link_invite_activate?token=5941af889072be40b5b14e72be7b4de8)
+![TAPD-Nankai](/img/tutorial/tapd.png)
 - 构建4～6人项目团队，推选小组长；
+- 选择任一个案例[Case](https://github.com/walkman617/SE2021/tree/main/Case)，作为团队项目；
+
 
 ## 成绩考核
 - 个人成绩中的大约 50% 将基于团队项目的文件和演示；
