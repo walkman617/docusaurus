@@ -9,25 +9,36 @@ tags: [assignments, team project, final score]
 ---
 
 ## 作业提交截止日期
-1. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日；
-2. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日；
-3. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日；
-4. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日；
+1. 组建项目团队，撰写[软件需求说明书](https://se.nkugame.com/blog/assessment#%E5%9B%A2%E9%98%9F%E9%A1%B9%E7%9B%AE)：2021年10月10日；
+2. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日；
+3. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日；
+4. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日；
+5. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日；
 
 ## 团队项目
-- 基于TAPD的敏捷项目管理：[加入TAPD](https://www.tapd.cn/invite_confirms/link_invite_activate?token=5941af889072be40b5b14e72be7b4de8)  
+### 基于TAPD的敏捷项目管理
+    - [加入TAPD](https://www.tapd.cn/invite_confirms/link_invite_activate?token=5941af889072be40b5b14e72be7b4de8)  
+    ![TAPD-Nankai](/img/tutorial/tapd.png)  
 
-![TAPD-Nankai](/img/tutorial/tapd.png)  
+### 任选其一案例作为团队项目
+    - [“Parking Lot” 或者 “Restaurant Automation”](https://github.com/walkman617/SE2021/tree/main/Case)
 
-- 选择任一个案例[“Parking Lot” 或者 “Restaurant Automation”](https://github.com/walkman617/SE2021/tree/main/Case)，作为团队项目；
-- 构建4～6人项目团队，推选组长，组长在TAPD中创建“轻量敏捷项目”，然后将组员添加到新创建的项目之中：
+### 构建项目团队（4～6人）
+    - 推选组长，填写在线文档[花名册](https://docs.qq.com/sheet/DYlhXU09yRnppQXp2)；
+    - ![2021SE-Roster](/img/tutorial/roster.png)
+    - 每位同学在“选课名单”页中填写个人的“TAPD昵称”；
+    - 组长在“项目团队”页中填写“TAPD项目名称”和团队成员信息；
+
+### 创建TAPD敏捷项目
+    - 组长在TAPD中创建“轻量敏捷项目”，然后将组员添加到新创建的项目之中：
     - 如果选择“Parking Lot”项目，请用"PL_"作为项目名称的前缀；
     - 如果选择“Restaurant Automation”项目，请用"RA_"作为项目名称的前缀；
-    ![TAPD-Lite](/img/tutorial/tapd-lite.jpg)
+    - ![TAPD-Lite](/img/tutorial/tapd-lite.jpg)
+
+### 撰写软件需求说明书（“Software Requirements Specification”）
 - 根据“Software Requirements Specification”[Github：/Template/SE-SRS.doc](https://github.com/walkman617/SE2021/blob/main/Template/SE-SRS.doc)的格式和内容要求：
     - 在TAPD项目的“文档”栏目中新建文档（或上传doc文档后转为“在线文档”），名称为"PL_SRS"或"RA_SRS"；
     - 经团队沟通协作，团队成员共同完成软件需求说明书（“Software Requirements Specification”）的撰写，每个章节标题后标明撰写者的姓名；
-    - 软件需求说明书（“Software Requirements Specification”）完成截止日期为2021年10月10日；
 
 
 ## 成绩考核
