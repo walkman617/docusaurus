@@ -22,6 +22,9 @@ tags: [assignments, team project, final score]
     - 如果选择“Parking Lot”项目，请用"PL_"作为项目名称的前缀；
     - 如果选择“Restaurant Automation”项目，请用"RA_"作为项目名称的前缀；
     ![TAPD-Lite](/img/tutorial/tapd-lite.jpg)
+- 根据[Software Requirements Specification](https://github.com/walkman617/SE2021/blob/main/Template/SE-SRS.doc)的格式和内容要求：
+    - 在TAPD项目的“文档”栏目中新建文档（或上传后转为“在线文档”），名称为"PL_SRS"或"RA_SRS"；
+    - 团队成员共同完成上述软件需求说明书的撰写；
 
 
 ## 成绩考核
