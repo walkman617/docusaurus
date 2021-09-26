@@ -27,7 +27,7 @@ tags: [assignments, team project, final score]
 - 根据“Software Requirements Specification”[Github：/Template/SE-SRS.doc](https://github.com/walkman617/SE2021/blob/main/Template/SE-SRS.doc)的格式和内容要求：
     - 在TAPD项目的“文档”栏目中新建文档（或上传doc文档后转为“在线文档”），名称为"PL_SRS"或"RA_SRS"；
     - 经团队沟通协作，团队成员共同完成软件需求说明书（“Software Requirements Specification”）的撰写，每个章节标题后标明撰写者的姓名；
-    
+    - 软件需求说明书（“Software Requirements Specification”）完成截止日期为2021年10月10日；
 
 
 ## 成绩考核
