@@ -17,8 +17,11 @@ tags: [assignments, team project, final score]
 ## 团队项目
 - 基于TAPD的敏捷项目管理：[加入TAPD](https://www.tapd.cn/invite_confirms/link_invite_activate?token=5941af889072be40b5b14e72be7b4de8)
 ![TAPD-Nankai](/img/tutorial/tapd.png)
-- 构建4～6人项目团队，推选小组长；
 - 选择任一个案例[Case](https://github.com/walkman617/SE2021/tree/main/Case)，作为团队项目；
+- 构建4～6人项目团队，推选组长，组长在TAPD中创建“轻量敏捷项目”，然后将组员添加到新创建的项目之中：
+    - 如果选择“Parking Lot”项目，请用"PL_"作为项目名称的前缀；
+    - 如果选择“Restaurant Automation”项目，请用"RA_"作为项目名称的前缀；
+    ![TAPD-Lite](/img/tutorial/tapd-lite.jpg)
 
 
 ## 成绩考核
