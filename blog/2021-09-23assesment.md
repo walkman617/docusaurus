@@ -17,23 +17,21 @@ tags: [assignments, team project, final score]
 
 ## 团队项目
 ### 基于TAPD的敏捷项目管理
-    - [加入TAPD](https://www.tapd.cn/invite_confirms/link_invite_activate?token=5941af889072be40b5b14e72be7b4de8)  
+- [加入TAPD](https://www.tapd.cn/invite_confirms/link_invite_activate?token=5941af889072be40b5b14e72be7b4de8)，请在“工作昵称”栏填写个人真实姓名  
     ![TAPD-Nankai](/img/tutorial/tapd.png)  
 
-### 任选其一案例作为团队项目
-    - [“Parking Lot” 或者 “Restaurant Automation”](https://github.com/walkman617/SE2021/tree/main/Case)
-
-### 构建项目团队（4～6人）
-    - 推选组长，填写在线文档[花名册](https://docs.qq.com/sheet/DYlhXU09yRnppQXp2)；
-    - ![2021SE-Roster](/img/tutorial/roster.png)
-    - 每位同学在“选课名单”页中填写个人的“TAPD昵称”；
-    - 组长在“项目团队”页中填写“TAPD项目名称”和团队成员信息；
-
-### 创建TAPD敏捷项目
-    - 组长在TAPD中创建“轻量敏捷项目”，然后将组员添加到新创建的项目之中：
+### 构建敏捷项目团队（4～6人）
+- 从如下两个案例[“Parking Lot” 或者 “Restaurant Automation”](https://github.com/walkman617/SE2021/tree/main/Case)中，任选其一作为团队项目；
+- 推选组长，组长在TAPD中创建“轻量敏捷项目”
     - 如果选择“Parking Lot”项目，请用"PL_"作为项目名称的前缀；
     - 如果选择“Restaurant Automation”项目，请用"RA_"作为项目名称的前缀；
     - ![TAPD-Lite](/img/tutorial/tapd-lite.jpg)
+- 组长将组员添加到上面新创建的项目之中；
+- 团队和组员填写在线[花名册](https://docs.qq.com/sheet/DYlhXU09yRnppQXp2)  
+    ![2021SE-Roster](/img/tutorial/roster.png)
+    - 每位同学在“选课名单”页中填写个人的“TAPD昵称”；
+    - 组长在“项目团队”页中填写“TAPD项目名称”和团队成员信息；
+
 
 ### 撰写软件需求说明书（“Software Requirements Specification”）
 - 根据“Software Requirements Specification”[Github：/Template/SE-SRS.doc](https://github.com/walkman617/SE2021/blob/main/Template/SE-SRS.doc)的格式和内容要求：
