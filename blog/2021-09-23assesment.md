@@ -9,7 +9,7 @@ tags: [assignments, team project, final score]
 ---
 
 ## 作业提交截止日期
-1. 组建项目团队，撰写[软件需求说明书](https://se.nkugame.com/blog/assessment#%E5%9B%A2%E9%98%9F%E9%A1%B9%E7%9B%AE)：2021年10月10日；
+1. 构建[敏捷项目团队]()，撰写[软件需求说明书](https://se.nkugame.com/blog/assessment#%E5%9B%A2%E9%98%9F%E9%A1%B9%E7%9B%AE)：2021年10月10日；
 2. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日；
 3. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日；
 4. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日；
@@ -35,7 +35,7 @@ tags: [assignments, team project, final score]
 
 ### 撰写软件需求说明书（“Software Requirements Specification”）
 - 根据“Software Requirements Specification”[Github：/Template/SE-SRS.doc](https://github.com/walkman617/SE2021/blob/main/Template/SE-SRS.doc)的格式和内容要求：
-    - 在TAPD项目的“文档”栏目中新建文档（或上传doc文档后转为“在线文档”），名称为"PL_SRS"或"RA_SRS"；
+    - 在TAPD项目的“文档”栏目中新建在线文档（或上传doc文档后转为“在线文档”），名称为"PL_SRS"或"RA_SRS"；
     - 经团队沟通协作，团队成员共同完成软件需求说明书（“Software Requirements Specification”）的撰写，每个章节标题后标明撰写者的姓名；
 
 
