@@ -9,7 +9,7 @@ tags: [assignments, team project, final score]
 ---
 
 ## 作业提交截止日期
-1. [构建敏捷项目团队](/blog/TeamProject)，撰写[软件需求说明书](/blog/TeamProject#撰写软件需求说明书)：2021年10月10日
+1. [敏捷项目开发](/blog/TeamProject)：2021年10月10日
 2. [加入TAPD班级群](/blog/TAPD)：2021年9月28日
 3. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日
 4. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日
