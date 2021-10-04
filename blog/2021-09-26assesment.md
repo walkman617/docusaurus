@@ -1,6 +1,6 @@
 ---
 slug: assessment
-title: *成绩考核与要求*
+title: 【成绩考核与要求】
 author: Wenxuan Shi
 author_title: A.P. @ Nankai University
 author_url: https://github.com/walkman617/walkman617
