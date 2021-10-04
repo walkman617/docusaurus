@@ -16,6 +16,6 @@ sidebar_position: 1
 * 下载链接：[Github](https://github.com/walkman617/SE2021)
 
 ## 实践
-* 敏捷项目管理：[TAPD](https://www.tapd.cn/)
+* 敏捷项目管理：[TAPD](https://github.com/walkman617/SE2021/tree/main/TAPD)
 * 团队项目开发：[Team Project](https://github.com/walkman617/SE2021/tree/main/Case)
 * DevOps实践：[HE2E DevOps实践](https://support.huaweicloud.com/bestpractice-devcloud/devcloud_practice_2000.html)
