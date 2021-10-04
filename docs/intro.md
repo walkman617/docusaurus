@@ -15,6 +15,6 @@ sidebar_position: 1
 ## 课件
 * 下载链接：[Github](https://github.com/walkman617/SE2021)
 
-## 案例
-
-**SafeHome** will be used throughout this course to illustrate the inner workings of project teams as they build a software product. The company, the project, and the people are purely fictitious, but the situations and problems are real.
+## 实践
+* 敏捷项目管理：[TAPD](https://www.tapd.cn/)
+* 团队项目开发：[Case](https://github.com/walkman617/SE2021/tree/main/Case)
