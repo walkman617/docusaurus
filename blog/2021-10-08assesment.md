@@ -9,13 +9,13 @@ tags: [assignments, team project, final score]
 ---
 
 ## 作业提交截止日期
-7. [迭代0：产品Backlog](/blog/Iterater0)：2021年10月17日
-6. [敏捷项目开发](/blog/TeamProject)：2021年10月10日
-5. [加入TAPD班级群](/blog/TAPD)：2021年9月28日
+1. [迭代0：产品Backlog](/blog/Iterater0)：2021年10月17日
+2. [敏捷项目开发](/blog/TeamProject)：2021年10月10日
+3. [加入TAPD班级群](/blog/TAPD)：2021年9月28日
 4. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日
-3. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日
-2. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日
-1. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日
+5. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日
+6. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日
+7. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日
 
 ## 团队项目
 - 构建4～6人[敏捷项目团队](/blog/TeamProject)
