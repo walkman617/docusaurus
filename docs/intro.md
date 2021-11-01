@@ -16,10 +16,12 @@ sidebar_position: 1
 * 电子书：https://www.mheducation.com/highered/product/software-engineering-practitioner-s-approach-pressman-maxim/M9781259872976.html
 
 
-## 课件
-* 下载链接：[Github](https://github.com/walkman617/SE2021)
+## 文档
+* PPT课件：[Slides](https://github.com/walkman617/SE2021/tree/main/Slides)
+* 团队项目：[Case](https://github.com/walkman617/SE2021/tree/main/Case)
+* 敏捷管理：[TAPD](https://github.com/walkman617/SE2021/tree/main/TAPD)
+* 案例学习：[TicToc](https://github.com/walkman617/SE2021/tree/main/ShowCase)
+* 文档模板：[Template](https://github.com/walkman617/SE2021/tree/main/Template)
 
 ## 实践
-* 敏捷项目管理：[TAPD](https://github.com/walkman617/SE2021/tree/main/TAPD)
-* 团队项目开发：[Team Project](https://github.com/walkman617/SE2021/tree/main/Case)
-* DevOps实践：[HE2E DevOps实践](https://support.huaweicloud.com/bestpractice-devcloud/devcloud_practice_2000.html)
+* 华为 DevOps实践：[HE2E](https://support.huaweicloud.com/bestpractice-devcloud/devcloud_practice_2000.html)
