@@ -9,16 +9,18 @@ tags: [assignments, team project, final score]
 ---
 
 ## 作业提交截止日期
-1. [迭代2：产品版本升级](/blog/Iterater2)：2021年11月28日
-2. [迭代1：交付产品](/blog/Iterater1)：2021年11月7日
-3. [HE2E DevOps实践](/blog/HE2E)：2021年10月31日
-4. [迭代0：产品Backlog](/blog/Iterater0)：2021年10月17日
-5. [敏捷项目开发](/blog/TeamProject)：2021年10月10日
-6. [加入TAPD班级群](/blog/TAPD)：2021年9月28日
-7. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日
-8. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日
-9. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日
-10. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日
+12. [IBM学院计划：车库方法](/blog/IBM-Garage)：2021年12月12日
+11. [IBM学院计划：注册账户](/blog/IBM-Academic)：2021年12月6日
+10. [迭代2：产品版本升级](/blog/Iterater2)：2021年11月28日
+9. [迭代1：交付产品](/blog/Iterater1)：2021年11月7日
+8. [HE2E DevOps实践](/blog/HE2E)：2021年10月31日
+7. [迭代0：产品Backlog](/blog/Iterater0)：2021年10月17日
+6. [敏捷项目开发](/blog/TeamProject)：2021年10月10日
+5. [加入TAPD班级群](/blog/TAPD)：2021年9月28日
+4. [课堂作业Ch04](/blog/TestQuestions4)：2021年9月27日
+3. [课堂作业Ch03](/blog/ponder3.5)：2021年9月27日
+2. [课堂作业Ch02](/blog/ponder2.4)：2021年9月20日
+1. [课堂作业Ch01](/blog/ponder1.4)：2021年9月13日
 
 ## 团队项目
 - 构建4～6人[敏捷项目团队](/blog/TeamProject)
