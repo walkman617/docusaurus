@@ -22,4 +22,4 @@ tags: [Team Project]
 
 ### 作业任务
 
-> 请使用“edu.cn”后缀的南开邮箱（**非常重要！！**）注册账户：[点击这里](https://www.ibm.com/academic/home)：
+> 请使用“edu.cn”后缀的南开邮箱（**非常重要！！**）注册账户：[点击这里](https://www.ibm.com/academic/home)
