@@ -9,8 +9,8 @@ tags: [Team Project]
 ---
 
 ## 自学课程（3小时）：车库方法与实践
-> [课程地址](https://www.ibm.com/cloud/architecture/content/course/garage-method-for-cloud-advocate)
+> 课程地址：[点击这里](https://www.ibm.com/cloud/architecture/content/course/garage-method-for-cloud-advocate)
 
-> [提交作业](http://nankai-cs.mikecrm.com/5ybHJ0y)
+> 提交作业：[点击这里](http://nankai-cs.mikecrm.com/5ybHJ0y)
 
 > ![SE2021-IBM-Garage](/img/assignments/ibm-garage.png)

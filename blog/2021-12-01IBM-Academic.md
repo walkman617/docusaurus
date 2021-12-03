@@ -8,7 +8,7 @@ author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
 tags: [Team Project]
 ---
 
-## IBM学院计划：
+## IBM学院计划：ibm.biz/academic
 
 ### 介绍
 
@@ -22,4 +22,4 @@ tags: [Team Project]
 
 ### 作业任务
 
-> 请使用“edu.cn”后缀的南开邮箱（**非常重要！！**）[注册账户](https://www.ibm.com/academic/home)：ibm.biz/academic
+> 请使用“edu.cn”后缀的南开邮箱（**非常重要！！**）注册账户：[点击这里](https://www.ibm.com/academic/home)：
