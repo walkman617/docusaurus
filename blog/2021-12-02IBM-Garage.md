@@ -18,6 +18,6 @@ tags: [Team Project]
 申请一个Promotion Code，将其应用在个人账号里即可。
  - 注册和延长期限方法：[查看这里](https://github.com/walkman617/SE2021/blob/main/IBM/IBM_Cloud_Trial.pdf)
 
-> 提交作业：[点击这里](http://nankai-cs.mikecrm.com/5ybHJ0y)
+## 提交作业：[点击这里](http://nankai-cs.mikecrm.com/5ybHJ0y)
 
 > ![SE2021-IBM-Garage](/img/assignments/ibm-garage.png)
