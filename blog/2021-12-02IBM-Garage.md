@@ -12,7 +12,7 @@ tags: [Team Project]
 
 > 课程地址：[点击这里](https://www.ibm.com/cloud/architecture/content/course/garage-method-for-cloud-advocate)
 
-> 注册IBM试用账户：[点击这里](https://cloud.ibm.com/registration/trial)
+> 注册 IBM Cloud 试用账户：[点击这里](https://cloud.ibm.com/registration/trial)
  - 免费试用期限：30天；
  - 延长使用期限：在 [Academic initiative](https://www.ibm.com/academic/home)网站
 申请一个Promotion Code，将其应用在个人账号里即可。
