@@ -9,12 +9,13 @@ tags: [assignments, team project, final score]
 ---
 
 ## 作业提交截止日期
+- 2021年12月27日：[迭代3：最终版本](/blog/Iterator3)
 - 2021年12月12日：[IBM学院计划：车库方法实践](/blog/IBM-Garage)
 - 2021年12月6日：[IBM学院计划：注册账户](/blog/IBM-Academic)
-- 2021年11月28日：[迭代2：产品版本升级](/blog/Iterater2)
-- 2021年11月7日：[迭代1：交付产品](/blog/Iterater1)
+- 2021年11月28日：[迭代2：升级版本](/blog/Iterator2)
+- 2021年11月7日：[迭代1：最小可用产品](/blog/Iterator1)
 - 2021年10月31日：[HE2E DevOps实践](/blog/HE2E)
-- 2021年10月17日：[迭代0：产品Backlog](/blog/Iterater0)
+- 2021年10月17日：[迭代0：产品Backlog](/blog/Iterator0)
 - 2021年10月10日：[敏捷项目开发](/blog/TeamProject)
 - 2021年9月28日：[加入TAPD班级群](/blog/TAPD)
 - 2021年9月27日：[课堂作业Ch04](/blog/TestQuestions4)
@@ -31,5 +32,5 @@ tags: [assignments, team project, final score]
 - 其余部分将取决于平时考勤、作业和个人对团队项目的贡献
 
 ## 注意事项
-- 每次作业或者项目报告的提交日期非常重要！！
+- 每次作业或者项目报告的提交日期**非常重要！！**
 - 延迟提交会有比较重的扣分
