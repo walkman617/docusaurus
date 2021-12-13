@@ -18,9 +18,9 @@ sidebar_position: 1
 
 ## 文档
 * PPT课件：[Slides](https://github.com/walkman617/SE2021/tree/main/Slides)
-* 团队项目：[Case](https://github.com/walkman617/SE2021/tree/main/Case)
+* 团队项目：[TeamProject](https://github.com/walkman617/SE2021/tree/main/Case)
 * 敏捷管理：[TAPD](https://github.com/walkman617/SE2021/tree/main/TAPD)
-* 案例学习：[TicToc](https://github.com/walkman617/SE2021/tree/main/ShowCase)
+* 案例学习：[ShowCase](https://github.com/walkman617/SE2021/tree/main/ShowCase)
 * 文档模板：[Template](https://github.com/walkman617/SE2021/tree/main/Template)
 
 ## 实践
