@@ -62,10 +62,6 @@ module.exports = {
                             href: 'https://www.tapd.cn',
                         },
                         {
-                            label: '华为DevCloud',
-                            href: 'https://www.huaweicloud.com/devcloud/',
-                        },
-                        {
                             label: '腾讯CloudBase',
                             href: 'https://cloudbase.net/',
                         },
