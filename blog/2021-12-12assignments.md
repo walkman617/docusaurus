@@ -12,7 +12,7 @@ tags: [assignments, team project, final score]
 - 2021年12月30日：[FinalReport：项目报告](/blog/FinalReport)
 - 2021年11月28日：[迭代2：升级版本](/blog/Iterator2)
 - 2021年11月7日：[迭代1：最小可用产品](/blog/Iterator1)
-- 2021年10月31日：[HE2E DevOps实践](/blog/HE2E)
+- 2021年10月31日：[DevOps实践](/blog/DevOps)
 - 2021年10月17日：[迭代0：产品Backlog](/blog/Iterator0)
 - 2021年10月10日：[敏捷项目开发](/blog/TeamProject)
 - 2021年9月28日：[加入TAPD班级群](/blog/TAPD)
