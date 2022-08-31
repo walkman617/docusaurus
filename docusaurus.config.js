@@ -62,6 +62,10 @@ module.exports = {
                             href: 'https://www.tapd.cn',
                         },
                         {
+                            label: '腾讯工蜂',
+                            href: 'https://code.tencent.com/',
+                        },
+                        {
                             label: '腾讯CloudBase',
                             href: 'https://cloudbase.net/',
                         },
