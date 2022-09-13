@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 课程资源
+# 课程介绍
 
 **Software Engineering**: The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software.
 
