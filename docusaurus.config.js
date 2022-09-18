@@ -69,6 +69,10 @@ module.exports = {
                             label: '腾讯CloudBase',
                             href: 'https://cloudbase.net/',
                         },
+                        {
+                            label: '腾讯开源',
+                            href: 'https://opensource.tencent.com/',
+                        },
                     ],
                 },
                 {
