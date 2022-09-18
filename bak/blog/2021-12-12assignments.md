@@ -24,10 +24,3 @@ tags: [assignments, team project, final score]
 - 构建4～6人[敏捷项目团队](/blog/TeamProject)
 - 设计与实现[“Parking Lot” 或者 “Restaurant Automation”](https://github.com/walkman617/SE2021/tree/main/Case)项目
 
-## 成绩考核
-- 个人成绩中的大约 50% 将基于团队项目的文件和演示
-- 其余部分将取决于平时考勤、作业和个人对团队项目的贡献
-
-## 注意事项
-- 每次作业或者项目报告的提交日期**非常重要！！**
-- 延迟提交会有比较重的扣分
