@@ -11,4 +11,4 @@ sidebar_position: 1
 
 扫码注册（请在**工作昵称**处填写**个人真实姓名**）
 
-![TAPD-Nankai](/img/tutorial/tapd-invite.jpg)  
+![TAPD-Nankai](/img/tutorial/tapd-invite.png)  
