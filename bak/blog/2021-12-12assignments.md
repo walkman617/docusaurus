@@ -15,7 +15,6 @@ tags: [assignments, team project, final score]
 - 2021年10月24日：[迭代0：产品Backlog](/blog/Iterator0)
 - 2021年10月17日：[DevOps实践](/blog/DevOps)
 - 2021年10月10日：[敏捷项目开发](/blog/TeamProject)
-- 2021年9月28日：[加入TAPD班级群](/blog/TAPD)
 - 2021年9月27日：[课堂作业Ch04](/blog/TestQuestions4)
 - 2021年9月27日：[课堂作业Ch03](/blog/ponder3.5)
 - 2021年9月20日：[课堂作业Ch02](/blog/ponder2.4)

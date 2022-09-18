@@ -8,6 +8,9 @@ author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
 tags: [assignments, team project, final score]
 ---
 
+## 作业提交截止日期
+- 2022年9月27日：[加入TAPD班级群](/blog/TAPD)
+
 ## 成绩考核
 - 个人成绩中的50% 将基于**团队项目的演示和文档**
 - 其余部分（50%）将取决于：**考勤**（20%）、**平时作业**（20%）和**个人对团队项目的贡献**（10%）
