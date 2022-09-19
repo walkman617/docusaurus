@@ -12,7 +12,6 @@ sidebar_position: 1
 
 ## 教材
 * 名称：`Software Engineering: A Practitioner's Approach`, 9th Edition
+* 课件：https://github.com/walkman617/SE2022
 * 纸质书：http://product.dangdang.com/29274797.html
 * 电子书：https://www.mheducation.com/highered/product/software-engineering-practitioner-s-approach-pressman-maxim/M9781259872976.html
-
-
