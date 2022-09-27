@@ -5,7 +5,7 @@ author: Wenxuan Shi
 author_title: A.P. @ Nankai University
 author_url: https://github.com/walkman617/walkman617
 author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
-tags: [assignments, team project, final score]
+tags: [assignments, final score]
 ---
 
 
@@ -15,7 +15,7 @@ tags: [assignments, team project, final score]
 - 每次作业的**提交截止日期**非常重要，延迟提交会有比较重的扣分
 
 ## 作业提交截止日期
-- 2022年9月26日：[看电影《社交网络》](/blog/theSocialNetwork)
-- 2022年9月27日：[加入TAPD班级群](/blog/TAPD)
-- 2022年9月28日：[注册腾讯工蜂账号](/blog/TGit)
-
+- 2022年9月26日（23:59:59之前）：[看电影《社交网络》](/blog/theSocialNetwork)
+- 2022年9月27日（23:59:59之前）：[加入TAPD班级群](/blog/TAPD)
+- 2022年9月28日（23:59:59之前）：[注册腾讯工蜂账号](/blog/TGit)
+- 2022年10月11日（23:59:59之前）：[敏捷项目开发](/blog/TeamProject)
