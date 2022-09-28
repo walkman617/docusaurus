@@ -34,3 +34,8 @@ tags: [Team Project]
 
 2. 组长在团队 [TAPD](https://www.tapd.cn/) DevOps项目的 “腾讯工蜂” 设置页面，按照“配置指引”和“使用指引”的**操作步骤**将TAPD项目与腾讯工蜂项目进行关联（提示：**Webhook** 即 **网络回调钩子**）
 ![TAPD-TGit2](/img/tutorial/tapd-tgit2.jpg)
+
+3. 组长在 [腾讯工蜂](https://code.tencent.com/) 协作项目的高级设置里添加和测试 **Webhook**（即 **网络回调钩子**）
+![TAPD-Webhook](/img/tutorial/tgit-webhook.jpg)
+
+![TAPD-Webhook](/img/tutorial/tgit-webhook-test.png)
