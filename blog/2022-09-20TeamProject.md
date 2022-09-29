@@ -11,7 +11,7 @@ tags: [Team Project]
 ## 1）构建敏捷项目团队
 1. 组建（3～5人）项目团队，推选组长
 2. 团队项目选题：参考并结合 [非物质文化遗产](https://www.ihchina.cn/) 里的中国传统文化元素进行自由构思，进行原创性软件产品的设计与开发（技术栈不限，但需要同时包括前端和后端实现）
-3. 组长登录 [TAPD](https://www.tapd.cn/) 平台，创建 “DevOps持续交付” 类型的项目（项目名称能体现产品创意）
+3. 组长登录 [TAPD](https://www.tapd.cn/) 平台，创建 “DevOps持续交付” 类型的项目（项目名称需体现产品创意）
 ![TAPD-DevOps](/img/tutorial/tapd-devops.png)
 
 4. 组长登录 [腾讯工蜂](https://code.tencent.com/) 平台，创建团队协作项目
