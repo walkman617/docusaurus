@@ -25,6 +25,7 @@ tags: [Team Project]
 2. 在[TAPD](https://www.tapd.cn/)中检查关联是否生效
 ![Tgit-project4](/img/tutorial/tapd-project4.jpg)
 
-## 5）完成极简项目的开发，在互联网环境中发布Demo（非常重要‼️ 可能会遇到云服务、域名、认证等步骤，请提前准备）
-将极简Demo的访问地址填写在[TAPD](https://www.tapd.cn/)对应需求的评论中（见上图）。
+## 5）完成极简项目的开发，在互联网环境中发布极简Demo
+- 要求能通过互联网访问极简Demo（**非常重要‼️**），发布时可能会遇到云服务、域名、认证等步骤，**请提前准备**；
+- 将极简Demo的访问地址填写在[TAPD](https://www.tapd.cn/)对应需求的评论中（见上图）。
 
