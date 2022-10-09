@@ -1,5 +1,5 @@
 ---
-slug: TeamProject
+slug: TeamProject1
 title: 敏捷项目开发
 author: Wenxuan Shi
 author_title: A.P. @ Nankai University

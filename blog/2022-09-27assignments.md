@@ -18,5 +18,5 @@ tags: [assignments, final score]
 - 2022年9月26日（23:59:59之前）：[看电影《社交网络》](/blog/theSocialNetwork)
 - 2022年9月27日（23:59:59之前）：[加入TAPD班级群](/blog/TAPD)
 - 2022年9月28日（23:59:59之前）：[注册腾讯工蜂账号](/blog/TGit)
-- 2022年10月12日（23:59:59之前）：[敏捷项目开发](/blog/TeamProject)
+- 2022年10月12日（23:59:59之前）：[敏捷项目开发](/blog/TeamProject1)
 - 2022年10月16日（23:59:59之前）：[迭代0：需求定义与分配](/blog/Iterator0-Making)
