@@ -16,7 +16,7 @@ tags: [Team Project]
 ![Tgit-HelloWorld](/img/tutorial/tgit-helloworld.jpg)
 
 ## 3）将[腾讯工蜂](https://code.tencent.com/) 的源码提交与[TAPD](https://www.tapd.cn/)的需求关联
-1. 每次提交项目源码时（可以自行选择喜欢的Git客户端），将第2步中复制的“源码关键字”添加在提交时的描述内容后面
+1. 每次提交项目源码时（可以自行选择喜欢的Git客户端），将第1步中复制的“源码关键字”添加在提交时的描述内容后面
 ![Tgit-project3](/img/tutorial/tapd-project3.jpg)
 
 2. 在[TAPD](https://www.tapd.cn/)中检查关联是否生效
