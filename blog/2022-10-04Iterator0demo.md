@@ -11,7 +11,7 @@ tags: [Team Project]
 ## 1）项目技术栈选型（必须同时包含前/后端技术）
 - 团队讨论并确定项目前/后端程序的技术栈：后端建议选择[CloudBase](https://cloudbase.net/)，或[校园优惠套餐](https://cloud.tencent.com/act/campus)
 - 在[TAPD](https://www.tapd.cn/)的团队项目中增加技术栈的需求描述(如下图)
-- 点击“复制源码关键字”在后面的步骤中使用
+- 点击“复制源码关键字”在后面的步骤中使用(如下图)
 ![TAPD-Project2](/img/tutorial/tapd-project2.jpg)
 
 ## 2）在[腾讯工蜂](https://code.tencent.com/) 中创建基于所选技术栈的极简项目（如HelloWorld）分枝
