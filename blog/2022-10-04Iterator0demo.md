@@ -8,7 +8,7 @@ author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
 tags: [Team Project]
 ---
 
-> 手里拿着锤子，看什么都像钉子
+> 手里拿着锤子的人，看什么都像是钉子
 
 
 ## 1）项目技术栈选型（必须同时包含前/后端技术）
