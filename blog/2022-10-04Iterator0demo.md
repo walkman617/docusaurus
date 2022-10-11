@@ -8,6 +8,9 @@ author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
 tags: [Team Project]
 ---
 
+> 手里拿着锤子，看什么都像钉子
+
+
 ## 1）项目技术栈选型（必须同时包含前/后端技术）
 - 团队讨论并确定项目前/后端程序的技术栈：后端建议选择[CloudBase](https://cloudbase.net/)，或[校园优惠套餐](https://cloud.tencent.com/act/campus)
 - 在[TAPD](https://www.tapd.cn/)的团队项目中增加技术栈的需求描述(如下图)
