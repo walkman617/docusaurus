@@ -27,8 +27,8 @@ tags: [Team Project]
 2. 在[TAPD](https://www.tapd.cn/)中检查关联是否生效
 ![Tgit-project4](/img/tutorial/tapd-project4.jpg)
 
-## 4）完成极简项目的开发，在互联网环境中发布极简Demo
-- 能通过互联网访问（非常重要‼️）极简Demo：比如服务器后端生成“Hello World”，客户前端调用后端接口进行显示
+## 4）基于技术栈选型，开发与发布同时包含前/后端技术的极简项目Demo
+- 能通过互联网访问（非常重要‼️）极简项目Demo：比如服务器后端生成“Hello World”，客户前端调用后端接口进行显示
 - 发布极简Demo到互联网环境中时，可能会遇到云服务、域名、认证等步骤，**请提前准备**
 - 将极简Demo的访问地址填写在[TAPD](https://www.tapd.cn/)对应需求的评论中（见上图）。
 
