@@ -15,8 +15,8 @@ sidebar_position: 2
   `https://docs.docker.com/engine/install/`
 
 ### 可能存在的问题
--   在确认Hyper-V功能与CPU虚拟化均已开启的情况下，Docker启动时仍报错，信息如下
 
+- 在确认Hyper-V功能与CPU虚拟化均已开启的情况下，Docker启动时仍报错，信息如下
 
     `Check that hardware-assisted virtualization (either Intel VMX or AMD SVM) and Data Execution Prevention (sometimes labeled XD or Execute Disable or NX) are enabled in your BIOS.`
 
@@ -24,15 +24,16 @@ sidebar_position: 2
 
     `See https://docs.docker.com/desktop/windows/troubleshoot/#virtualization`
 
-    - 解决建议
 
-      在确认Hyper-V功能与CPU虚拟化均已开启的情况下， 在管理员模式下的命令提示符中输入
+- 解决建议
 
-      ```
-      bcdedit /set hypervisorlaunchtype Auto
-      ```
+   在确认Hyper-V功能与CPU虚拟化均已开启的情况下， 在管理员模式下的命令提示符中输入
 
-      并重启电脑 
+   ```
+   bcdedit /set hypervisorlaunchtype Auto
+   ```
+
+   并重启电脑 
 
 
 
