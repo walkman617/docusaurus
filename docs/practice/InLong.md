@@ -27,17 +27,15 @@ https://docs.docker.com/engine/install/
 
     See https://docs.docker.com/desktop/windows/troubleshoot/#virtualization
     ```
-
-
-   **解决建议**
-
-   1. 在确认Hyper-V功能与CPU虚拟化均已开启的情况下， 在管理员模式下的命令提示符中输入
-
-   ```
-   bcdedit /set hypervisorlaunchtype Auto
-   ```
-
-   2. 重启电脑 
+    
+    **解决建议**
+    
+    1. 在确认Hyper-V功能与CPU虚拟化均已开启的情况下， 在管理员模式下的命令提示符中输入
+    ```
+    bcdedit /set hypervisorlaunchtype Auto
+    ```
+    
+    2. 重启电脑 
 
 
 
