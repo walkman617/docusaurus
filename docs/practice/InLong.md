@@ -12,28 +12,32 @@ sidebar_position: 2
 
 ### 安装
 
-  `https://docs.docker.com/engine/install/`
+```
+https://docs.docker.com/engine/install/
+```
 
 ### 可能存在的问题
 
 - 在确认Hyper-V功能与CPU虚拟化均已开启的情况下，Docker启动时仍报错，信息如下
 
-    `Check that hardware-assisted virtualization (either Intel VMX or AMD SVM) and Data Execution Prevention (sometimes labeled XD or Execute Disable or NX) are enabled in your BIOS.`
+    ```
+    Check that hardware-assisted virtualization (either Intel VMX or AMD SVM) and Data Execution Prevention (sometimes labeled XD or Execute Disable or NX) are enabled in your BIOS.
 
-    `Check your bootloader is configured to launch Hyper-V.`
+    Check your bootloader is configured to launch Hyper-V.
 
-    `See https://docs.docker.com/desktop/windows/troubleshoot/#virtualization`
+    See https://docs.docker.com/desktop/windows/troubleshoot/#virtualization
+    ```
 
 
-- 解决建议
+   **解决建议**
 
-   在确认Hyper-V功能与CPU虚拟化均已开启的情况下， 在管理员模式下的命令提示符中输入
+   1. 在确认Hyper-V功能与CPU虚拟化均已开启的情况下， 在管理员模式下的命令提示符中输入
 
    ```
    bcdedit /set hypervisorlaunchtype Auto
    ```
 
-   并重启电脑 
+   2. 重启电脑 
 
 
 
@@ -41,20 +45,24 @@ sidebar_position: 2
 
 ### 安装
 
-`https://nightlies.apache.org/flink/flink-docs-release-1.13/docs/try-flink/local_installation/`
+```
+https://nightlies.apache.org/flink/flink-docs-release-1.13/docs/try-flink/local_installation/
+```
 
 ### 可能存在的问题
 - 如何在JAVA1.8与其他的JAVA版本中自由切换
 
-  - 解决建议
-  
-    `https://blog.csdn.net/YaoChung/article/details/126193635`
+  **解决建议**
+  ```
+  https://blog.csdn.net/YaoChung/article/details/126193635
+  ```
 
 - 在确认Java版本为JDK8/11后，仍无法正常运行start-cluster.sh文件
 
-  - 解决建议
-  
-    `https://blog.csdn.net/guandongsheng110/article/details/118578189`
+  **解决建议**
+  ```
+  https://blog.csdn.net/guandongsheng110/article/details/118578189
+  ```
 
 
 
@@ -62,7 +70,9 @@ sidebar_position: 2
 
 ### 官网
 
-`https://inlong.apache.org/zh-CN/docs/introduction`
+```
+https://inlong.apache.org/zh-CN/docs/introduction
+```
 
 ### 操作步骤（仅供参考）
 
