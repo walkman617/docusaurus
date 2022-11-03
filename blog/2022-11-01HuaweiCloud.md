@@ -5,7 +5,7 @@ author: Wenxuan Shi
 author_title: A.P. @ Nankai University
 author_url: https://github.com/walkman617/walkman617
 author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
-tags: [assignments]
+tags: [Assignments]
 ---
 
 > 要想得到别人得不到的回报，就需要找到别人不知道的信息。
