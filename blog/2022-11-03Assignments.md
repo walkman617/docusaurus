@@ -5,7 +5,7 @@ author: Wenxuan Shi
 author_title: A.P. @ Nankai University
 author_url: https://github.com/walkman617/walkman617
 author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
-tags: [assignments, final score]
+tags: [assignments, Team Project]
 ---
 
 
@@ -22,3 +22,4 @@ tags: [assignments, final score]
 - 2022年10月16日（23:59:59之前）：[迭代0：产品需求定义](/blog/Iterator0-Making)
 - 2022年10月23日（23:59:59之前）：[迭代0：技术栈与极简Demo](/blog/Iterator0-Demo)
 - 2022年10月30日（23:59:59之前）：[迭代1：MVP交付](/blog/Iterator1)
+- 2022年11月08日（23:59:59之前）：[注册华为云账号](/blog/HuaweiCloud)
