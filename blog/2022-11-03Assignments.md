@@ -23,3 +23,4 @@ tags: [assignments, Team Project]
 - 2022年10月23日（23:59:59之前）：[迭代0：技术栈与极简Demo](/blog/Iterator0-Demo)
 - 2022年10月30日（23:59:59之前）：[迭代1：MVP交付](/blog/Iterator1)
 - 2022年11月08日（23:59:59之前）：[注册华为云账号](/blog/HuaweiCloud)
+- 2022年11月20日（23:59:59之前）：[迭代2：用户-角色-权限设计](/blog/Iterator2)

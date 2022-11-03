@@ -8,6 +8,8 @@ author_image_url: https://avatars.githubusercontent.com/u/9105499?v=4
 tags: [assignments]
 ---
 
+> 要想得到别人得不到的回报，就需要找到别人不知道的信息。
+
 ## 1）注册华为云账号，并实名认证
 - 注册[华为云](https://www.huaweicloud.com)账号，并进行实名认证
 - 获取华为云[账号名 和 账号ID](https://console.huaweicloud.com/iam/?agencyId=0bc8d306f880f2c21f28c01b3710deb1&region=cn-north-1&locale=zh-cn#/mine/apiCredential)
