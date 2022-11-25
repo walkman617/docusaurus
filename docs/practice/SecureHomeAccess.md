@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 需求分析与设计案例
+# 案例：Secure Home Access
 
 Secure Home Access: the system offers house access control using a central computer. 
 
