@@ -31,8 +31,8 @@ module.exports = {
                 },
                 { to: '/blog', label: '作业与要求', position: 'left' },
                 {
-                    href: 'https://github.com/walkman617/SE2022',
-                    label: 'GitHub',
+                    href: 'https://docs.qq.com/s/i3S5eoYEuxj4-stR6I_WWq',
+                    label: '课件',
                     position: 'right',
                 },
             ],
@@ -82,8 +82,8 @@ module.exports = {
                             to: '/blog',
                         },
                         {
-                            label: 'GitHub',
-                            href: 'https://github.com/walkman617/SE2022',
+                            label: '课件下载',
+                            href: 'https://docs.qq.com/s/i3S5eoYEuxj4-stR6I_WWq',
                         },
                     ],
                 },
