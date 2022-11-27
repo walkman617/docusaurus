@@ -39,13 +39,3 @@ sidebar_position: 2
 
     CHAPTER 14： Pattern-Based Design
 
-## Part Four - Managing Software Projects
----
-    CHAPTER 24： Project Management Concepts
-
-    CHAPTER 25： Creating a Viable Software Plan
-
-    CHAPTER 26： Risk Management
-
-    CHAPTER 27： A Strategy for Software Support
-
