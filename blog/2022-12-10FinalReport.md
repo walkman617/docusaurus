@@ -18,7 +18,7 @@ tags: [Team Project]
 4. 项目组长进入 [TAPD](https://www.tapd.cn/) 团队项目的 “文档” 目录，提交团队项目的学期报告（doc或pdf格式，文件名称为 **FinalReport-项目名称.doc/docx/pdf** )
 
 ## 2) FinalReport: 演示视频
-1. 录制团队项目产品的操作视频（时长不超过3分钟），视频中配上语言讲解
+1. 录制团队项目产品的操作视频（时长不超过3分钟），视频配上语音讲解
 2. 项目组长进入 [TAPD](https://www.tapd.cn/) 团队项目的 “文档” 目录，提交录制的团队项目产品操作视频（mp4格式，文件名称为 **FinalReport-项目名称.mp4** )
 
 ## 3）填写在线花名册
